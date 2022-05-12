@@ -1,11 +1,15 @@
-### Hi there 👋
+![](https://user-images.githubusercontent.com/100097771/168185338-706f183f-8ccd-48dd-85ca-be2347ec49be.jpg)
+
+
+
+### Hi there, I'm Devra!
 
 <!--
 **elki999/elki999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on pushing code daily.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
